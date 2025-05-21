@@ -44,12 +44,6 @@ MANIFEST
 *.ipynb
 .ipynb_checkpoints/
 
-# Data files - This project expects train.csv in a 'data/' directory.
-# This .gitignore excludes the 'data/' directory and CSV files from being committed.
-# Ensure users know to place 'train.csv' manually.
-data/
-*.csv
-
 # Temporary or log files
 *.log
 *.tmp
